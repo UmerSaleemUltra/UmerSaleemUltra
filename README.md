@@ -1,4 +1,4 @@
-# Umer Saleem's Projects
+# Umer Saleem's
 
 Welcome to my project repository! Here you'll find a collection of my work, primarily focused on front-end development using HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React.js, Node.js, and Firebase.
 
