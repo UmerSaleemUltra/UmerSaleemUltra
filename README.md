@@ -1,6 +1,6 @@
 # Umer Saleem's GitHub Profile 🚀
 
-![Profile Image]([https://s.svgbox.net/hero-solid.svg?ic=user&color=000](https://img.freepik.com/premium-photo/man-standing-2d-cartoon-illustraton-white-background-high_889056-26216.jpg)) <!-- SVG of a man -->
+![Profile Image]([[https://s.svgbox.net/hero-solid.svg?ic=user&color=000](https://img.freepik.com/premium-photo/man-standing-2d-cartoon-illustraton-white-background-high_889056-26216.jpg](https://img.freepik.com/premium-photo/man-standing-2d-cartoon-illustraton-white-background-high_889056-26216.jpg?w=740))) <!-- SVG of a man -->
 
 ## About Me 🙋‍♂️
 
