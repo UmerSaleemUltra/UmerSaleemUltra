@@ -1,33 +1,53 @@
-Umer Saleem's GitHub Profile 🚀
-About Me 🙋‍♂️
-Hello! I'm Umer Saleem, a dedicated web and mobile developer with expertise in the MERN stack and React Native. With over a year of hands-on experience, I’m passionate about creating seamless user experiences and high-performance applications. I'm actively looking for job opportunities where I can leverage my skills to make a meaningful impact.
+🚀 Umer Saleem's GitHub Profile
+🙋‍♂️ About Me
+Hello! I'm Umer Saleem, a passionate web and mobile developer specializing in the MERN stack, React Native, and Electron.js. With over a year of hands-on experience, I thrive on building high-performance applications with seamless user experiences.
 
-Skills 💻
-Languages & Technologies
-HTML/CSS: Semantic HTML, Responsive Design, Flexbox, CSS Grid 🖌️
-JavaScript: ES6+, DOM Manipulation, Asynchronous Programming ⚡
-React.js: Hooks, Functional Components, State Management ⚛️
-Bootstrap & Tailwind CSS: Responsive, modern UI design 🎨
-Firebase: Authentication, Firestore, Hosting 🔥
-React Native: Building cross-platform mobile applications 📱
-MongoDB: Database management and data modeling 🗄️
-Node.js & Express.js: RESTful APIs and backend development 🌐
-Projects 🔨
-Project Portfolio
-Project Highlights: I've built and deployed various web and mobile applications showcasing my skills in HTML, CSS, JavaScript, React, Bootstrap, Firebase, and the MERN stack. My projects reflect my problem-solving abilities and adaptability in implementing new features.
-Tech Stack: [HTML, CSS, JavaScript, React, Bootstrap, Firebase, MongoDB, Node.js]
-Achievements: Developed advanced features, optimized performance, and improved user interfaces. [Add any specific highlights if desired.]
-Current Focus & Learning 📚
-I'm committed to growing as a developer and keeping up with the latest technologies. I am continually honing my expertise in:
+I’m currently seeking full-time opportunities where I can leverage my skills to develop impactful applications and collaborate with forward-thinking teams.
 
-Full MERN Stack Development: Building scalable, end-to-end web applications 🌍
-React Native: Creating high-quality, cross-platform mobile applications 📲
-Career Goals 🎯
-I am actively seeking full-time opportunities where I can contribute as a MERN developer or React Native mobile developer. I am excited to bring my skills to a collaborative team environment and take on new challenges.
+💻 Skills & Expertise
+Frontend Development
+✅ HTML5 / CSS3 – Semantic HTML, Responsive Design, Flexbox, CSS Grid
+✅ JavaScript (ES6+) – DOM Manipulation, Asynchronous Programming, API Integration
+✅ React.js – Functional Components, Hooks, State Management (Context API, Redux)
+✅ Bootstrap & Tailwind CSS – Modern UI Design, Custom Themes
 
-Contact Me 📞
-I’m always open to connecting with fellow developers and potential employers. Reach out to discuss projects or job opportunities:
+Backend & Database
+✅ Node.js & Express.js – RESTful APIs, Authentication, Middleware
+✅ MongoDB – Database Management, Mongoose, Aggregation
+✅ Firebase – Firestore, Authentication, Hosting, Cloud Functions
 
-Email: us800750@gmail.com 📧
-Phone: +92 309 2935757 📱
-Thank You! 🎉
+Mobile & Desktop Development
+✅ React Native – Cross-Platform Mobile Apps (iOS & Android)
+✅ Electron.js – Desktop Applications with JavaScript
+
+🔨 Projects & Experience
+💡 Project Portfolio
+I've built and deployed various web, mobile, and desktop applications, showcasing expertise in React, React Native, Electron.js, Firebase, and the MERN stack. My projects emphasize:
+✔️ High-performance UI/UX
+✔️ Optimized data handling & APIs
+✔️ Scalable and maintainable architecture
+
+💡 Tech Stack:
+🔹 HTML | CSS | JavaScript | React.js | Tailwind | Bootstrap
+🔹 Node.js | Express.js | MongoDB | Firebase
+🔹 React Native | Electron.js
+
+🌟 Achievements:
+🔹 Developed and deployed cross-platform mobile and desktop applications
+🔹 Optimized app performance and implemented real-time features
+🔹 Improved UI consistency and user experience across devices
+
+📚 Current Focus & Learning
+🚀 MERN Stack Development – Scalable, full-stack web apps
+📱 React Native – Building high-quality mobile experiences
+🖥️ Electron.js – Developing modern, cross-platform desktop applications
+💡 Optimizing Performance – Writing clean, efficient, and reusable code
+
+🎯 Career Goals
+I am actively seeking full-time opportunities as a MERN developer, React Native mobile developer, or Electron.js developer. I am excited to contribute to a dynamic team, solve real-world problems, and continue growing in the tech industry.
+
+📞 Contact Me
+📧 Email: us800750@gmail.com
+📱 Phone: +92 309 2935757
+
+Let’s connect and build something amazing together! 🚀
