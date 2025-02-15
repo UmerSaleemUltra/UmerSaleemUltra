@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umersaleemultra&label=Profile%20views&color=0e75b6&style=flat" alt="umersaleemultra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umersaleemultra" alt="umersaleemultra" /></a> </p>
-
 - 🔭 I’m currently working on **UmerSaleemUltra**
 
 - 🌱 I’m currently learning **Next.js,Flutter**
+
+- 👯 I’m looking to collaborate on [Eccomerce-store-with-react-js-and-stripe-integration-and-razorpay](https://eccomerce-store-with-react-js-and-stripe-umer-saleems-projects.vercel.app/)
+
+- 🤝 I’m looking for help with [Chat Bot With react js and gemini api integration](https://chat-bot-six-rho.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://umersaleem.com/](https://umersaleem.com/)
 
