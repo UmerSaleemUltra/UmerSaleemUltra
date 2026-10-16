@@ -9,11 +9,9 @@
 
 - 🤝 I’m looking for help with [Chat Bot With react js and gemini api integration](https://chat-bot-six-rho.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://umersaleem.com/](https://umersaleem.com/)
-
 - 💬 Ask me about **react next js react native firebase mongo db node js**
 
-- 📫 How to reach me **us8637@gmail.com**
+- 📫 How to reach me **us800750@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/umer-saleem-aaa331309/](https://www.linkedin.com/in/umer-saleem-aaa331309/)
 
